@@ -1,0 +1,105 @@
+{
+    "metadata": [
+        [
+            15,
+            "IGbbb08_BG11_FBA_withMedia",
+            "KBaseFBA.FBAModel-14.0",
+            "2022-06-21T21:19:31+0000",
+            1,
+            "igo",
+            119960,
+            "igo:narrative_1655488007240",
+            "b9ddb8869507f8c5f9caebd2c5e8fde1",
+            1389552,
+            {
+                "Genome": "119960/5/2",
+                "Name": "IGbbb08_BG11_FBA_withMedia",
+                "Number biomasses": "1",
+                "Number compartments": "2",
+                "Number compounds": "1056",
+                "Number gapfills": "2",
+                "Number gapgens": "0",
+                "Number reactions": "946",
+                "Source": "KBase",
+                "Source ID": "IGbbb08_BG11_FBA_withMedia",
+                "Type": "GenomeScale"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2022-06-21T21:19:25+0000",
+            "creator": "igo",
+            "epoch": 1655846365395,
+            "extracted_ids": {},
+            "info": [
+                15,
+                "IGbbb08_BG11_FBA_withMedia",
+                "KBaseFBA.FBAModel-14.0",
+                "2022-06-21T21:19:31+0000",
+                1,
+                "igo",
+                119960,
+                "igo:narrative_1655488007240",
+                "b9ddb8869507f8c5f9caebd2c5e8fde1",
+                1389552,
+                {
+                    "Genome": "119960/5/2",
+                    "Name": "IGbbb08_BG11_FBA_withMedia",
+                    "Number biomasses": "1",
+                    "Number compartments": "2",
+                    "Number compounds": "1056",
+                    "Number gapfills": "2",
+                    "Number gapgens": "0",
+                    "Number reactions": "946",
+                    "Source": "KBase",
+                    "Source ID": "IGbbb08_BG11_FBA_withMedia",
+                    "Type": "GenomeScale"
+                }
+            ],
+            "orig_wsid": 119960,
+            "path": [
+                "119960/15/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "build_metabolic_model",
+                    "method_params": [
+                        {
+                            "accept_charge_imbalanced": 0,
+                            "accept_mass_imbalanced": 0,
+                            "classic": 0,
+                            "custom_bound_list": [],
+                            "fbamodel_output_id": "IGbbb08_BG11_FBA_withMedia",
+                            "gapfill_model": 1,
+                            "genome_id": "119960/5/2",
+                            "media_id": null,
+                            "media_supplement_list": "",
+                            "merge_all_annotations": 0,
+                            "minimum_target_flux": 0.1,
+                            "source_ontology_list": "",
+                            "template_id": "auto",
+                            "use_annotated_functions": 1,
+                            "use_nontemplate_reactions": 0,
+                            "workspace": "igo:narrative_1655488007240"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "262/535/3",
+                "119960/5/2",
+                "262/34/1"
+            ]
+        }
+    ]
+}
