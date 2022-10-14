@@ -1,7 +1,8 @@
 # dissertacao-ufma
 
 Olá à todos!
-Aqui apresento os materiais suplementares à dissertação que desenvolvi, com o tema: "MODELAGEM METABÓLICA DA CIANOBACTÉRIA Geminocystis sp. GBBB08, ISOLADA NO PARQUE NACIONAL DA CHAPADA DAS MESAS, MARANHÃO" realizado pelo grupo de pesquisa de Genética, Biodiversidade, Biprospecção e Biotecnologia (GB3/UFMA) no Laboratório de Genética e Biologia Molecular (LabGem/UFMA) para o Programa de Pós-Graduação em Ciência e Tecnologia Ambiental(PPGC&TAmb/UFMA).
+
+Aqui apresento os materiais suplementares à dissertação que desenvolvi, com o tema: "MODELAGEM METABÓLICA DA CIANOBACTÉRIA Geminocystis sp. GBBB08, ISOLADA NO PARQUE NACIONAL DA CHAPADA DAS MESAS, MARANHÃO" realizado pelo grupo de pesquisa de Genética, Biodiversidade, Biprospecção e Biotecnologia (GB3/UFMA) no Laboratório de Genética e Biologia Molecular (LabGem/UFMA) para o Programa de Pós-Graduação em Ciência e Tecnologia Ambiental (PPGC&TAmb/UFMA).
 Realizado com as orientações acadêmicas de Dr. Leonardo Texeira Dall’Agnol (DEBIO/UFMA) e Dr. Alex Ranieri Jerônimo Lima (Instituto Butantan/USP).
 
 Outputs do trabalho:
